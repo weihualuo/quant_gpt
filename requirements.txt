@@ -1,0 +1,6 @@
+backtrader
+akshare
+TA-Lib
+numpy
+pandas
+pytest
